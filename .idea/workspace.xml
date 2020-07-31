@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32b97e71-4e4c-490a-b9c2-58c5d284bca7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practico6/Ejercicio0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practico6/EjercicioArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,6 +120,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="465" y="130" key="FileChooserDialogImpl" timestamp="1595652782540">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="465" y="130" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595652782539" />
     <state width="981" height="178" key="GridCell.Tab.0.bottom" timestamp="1595448812938">
       <screen x="-1024" y="0" width="1024" height="728" />
     </state>
@@ -150,10 +152,11 @@
     <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728/1366.-57.1024.728@0.0.1366.728" timestamp="1595184893714" />
     <state width="981" height="178" key="GridCell.Tab.0.right/0.0.1366.728/1366.-57.1024.728@1366.-57.1024.728" timestamp="1595214324782" />
     <state width="807" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595090830010" />
-    <state x="1366" y="-57" key="new project wizard" timestamp="1595214439193">
-      <screen x="1366" y="-57" width="1024" height="728" />
+    <state x="0" y="0" key="new project wizard" timestamp="1595652790887">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="157" y="0" key="new project wizard/0.0.1366.728/1366.-57.1024.728@0.0.1366.728" timestamp="1595213857130" />
     <state x="1366" y="-57" key="new project wizard/0.0.1366.728/1366.-57.1024.728@1366.-57.1024.728" timestamp="1595214439193" />
+    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595652790887" />
   </component>
 </project>
